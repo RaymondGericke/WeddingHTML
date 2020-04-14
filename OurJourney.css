@@ -1,0 +1,47 @@
+li{
+	margin-top:1em;
+	filter: brightness(130%);
+	color: antiquewhite;
+	width:170px;
+	display: inline-block;
+}
+a{
+	font-style: Candlescript;
+	text-decoration: underline;
+	color: white;
+}
+#Primary{
+	background-image:url('');
+	background-position: center;
+	height:50%;
+}
+#Secondary{
+	background-image:url('');
+	background-position: center;
+	height:50%;
+}
+#id1{
+	background-image:url('Quotes2.jpg');
+	height:30%;
+	width:100%;
+	background-color: black;
+}
+#id2{
+	background-image:url('Quotes.jpg');
+	height:30%;
+	width:100%;
+	background-color: black;
+}
+html{
+	background-color: black;
+	
+}
+span{
+	margin:center;
+	color: white;
+	font-size: 70px;
+}
+pre{
+	font-size: 20px;
+}
+

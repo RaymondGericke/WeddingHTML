@@ -1,0 +1,52 @@
+header{
+	background-image:url(bridge.jpg);
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 100%;
+}
+a{
+	text-decoration: none;
+	color: black;
+	text-decoration: underline;
+	font-size: 19px;
+	text-align:right;
+	padding-bottom: 5px;
+	margin-bottom: 5px:
+}
+li{
+	display: inline-block;
+	margin-left: 1em;
+	margin-bottom: 1em;
+	color: Gold;
+	
+}
+legend{
+	color: black;
+	
+}
+pre{
+	color: black;
+	font-size:19px;
+	text-align:left;
+}
+fieldset{
+	height:720px;
+}
+section{
+	display: flex;
+}
+#left{
+	background-color: cornflowerblue;
+    flex:2;
+	font: 22px CandleScript, serif;	
+}
+#right{
+	background-color:chocolate;
+	flex:2;
+	background-image:url(couple.jpg);
+	width: 30%
+}
+article {
+    background-color: white;
+    flex:3;
+}

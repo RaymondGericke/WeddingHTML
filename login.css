@@ -1,0 +1,46 @@
+header{
+	background-image: url('lights2.png');
+	width:600px;
+	height:auto;
+	filter: brightness(130%);
+	
+}
+fieldset{
+	height:470px;
+	background-repeat:no-repeat;
+}
+pre{
+	font-size:large;
+}
+input{
+	margin-top:1em;
+}
+lable{
+	margin-top:1em;
+	font-size: x-large;
+	color:white;
+}
+html{
+	background-color: black;
+}
+#Initials{
+	margin-left:73px;
+}
+#Code{
+	margin-left:106px
+}
+li{
+	margin-top:1em;
+	filter: brightness(130%);
+	color: antiquewhite;
+	width:170px;
+	display: inline-block;
+}
+a{
+	font-style: Candlescript;
+	text-decoration: underline;
+	color: white;
+}
+#Confirm{
+	color:black;
+}

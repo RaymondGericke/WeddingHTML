@@ -1,0 +1,26 @@
+#Main{
+	background-image: url('runhike.jpg');
+	color: Gold;
+	height:500px;
+	width:500px;
+}
+pre{
+	font-size: large;
+	color: Gold;
+	height:430px;
+}
+html{
+	background-color:black;
+}
+li{
+	margin-top:1em;
+	filter: brightness(130%);
+	color: antiquewhite;
+	width:170px;
+	display: inline-block;
+}
+a{
+	font-style: Candlescript;
+	text-decoration: underline;
+	color: white;
+}
